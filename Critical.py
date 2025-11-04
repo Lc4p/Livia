@@ -10,7 +10,7 @@ console = Console()
 
 pygame.mixer.init()
 
-pygame.mixer.music.load(r"C:\Users\Lívia\Downloads\My_Oh_My.mp3")
+pygame.mixer.music.load("Diretório de música")
 
 colors = ["bright_red", "bright_magenta", "bright_yellow", "bright_cyan", "bright_green"]
 
